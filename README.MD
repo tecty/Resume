@@ -55,13 +55,15 @@ Unit tested all the critical functionality to calculate 10^3 transactions correc
 Implement an idea of bitcoin to prevent the balance from corruption and hack.  
 Using materializecss to implement the frontend to a great UI.
 
-### Assignment 1 and 2 for Operating System (COMP3231)
+### Assignment 1 and 2 of Operating System Course (COMP3231)
 
 <!-- TODO: -->
 GitHub:
 [https://github.com/tecty/cs3231](https://github.com/tecty/cs3231)  
-Coding in a large code base (100k+ lines). Deep understanding of lock and file system in OS.  
-The code is following the code style, clean and straightforward code. Also, plenty of comments (almost in every two line) to be readily understood by others.  
+Implement a multi-theaded programme and a file system in a real Operating System
+(100k+ lines).
+Plenty of comments and follow a strict code style to be readily understood by
+others.  
 
 ### SiRound (SENG2021)
 <!-- TODO: More precise?  -->
