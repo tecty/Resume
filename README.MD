@@ -53,14 +53,27 @@ Correcting style while migrating content between two different websites.
 
 ## Relevent Project
 
+### Instacram (COMP2041 Assignment 2)
+
+GitHub:
+[https://github.com/tecty/COMP2041/tree/master/ass2/frontend](https://github.com/tecty/COMP2041/tree/master/ass2/frontend)  
+Using vanilla js to develop a single page application.  
+Using bootstrap 4 to ensure my page style is correct and tidy.  
+
 ### Party Whip (SENG2011)
 
 GitHub:
-[https://github.com/tecty/cs3231](https://github.com/tecty/cs3231)  
+[https://github.com/tecty/SENG2011](https://github.com/tecty/SENG2011)
 Manage a team using my Software Engineering skill.  
 Developing a RESTful API with django rest.
 Using Vue and Vuetify to develop a modern web application with pretty UI.  
 Using docker to provide a unified development environment.
+
+### BillSpliter
+
+GitHub: [git@github.com:tecty/BillSpliter.git](git@github.com:tecty/BillSpliter.git)  
+Self driven project. Design and develop a well structure backend with MVC. And applied ~30 tests to have quality controll during each iteration.  
+
 
 ### Assignment 1 and 2 of Operating System Course (COMP3231)
 
