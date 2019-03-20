@@ -8,11 +8,10 @@ GitHub: [https://github.com/tecty](https://github.com/tecty)
 
 ## Career Profile
 
-Third-year Software Engineering (Honor) student with a distinction average and has:
+Third-year Software Engineering (Honor) student with a distinction grade and has:
 
-- Implemented functionality in a large code base in COMP3231.
-- I have practice my project management skill in two SENG course.
-- Self instructs code for web-based applications and persuades to deliver high-quality code and slick UI.
+- High self-motivation and determine to learn new stuff.
+- Understand what's the difficulty in software development and concepts in software engineering.
 
 ## Education
 
@@ -22,61 +21,70 @@ Third-year Software Engineering (Honor) student with a distinction average and h
 Major: Software Engineering (Honor Degree)  
 WAM: 81/100
 
-### UIC (United International College)
-
-2015 Sep ~ 2016 Jun  
-Major: Computer Science and Technology  
-GPA: 2.7/4  
-Approximate 8 group-works per semester, constant group leader.
-
 ## Working Experience
 
 ### Taste of Research: Replicate File System using Journal Shipping
 
 2018 Nov ~ 2019 Feb  
 Topic: Linux, C  
+Award: Nominated poster.
 Dive deep in Linux Kernel. Developed a critical understanding mechanism in the operating system and filesystem
-
-### Guangzhou Small Ant Internet Technology Ltd
-
-2018 July  
-Framework: Spring Boot, Freemarker, Bootstrap 3, MyBatis plus  
-Containerized a developing app.  
-Backend development for Spring boot + MyBatis Plus.
-
-### Website Migration of UIC
-
-2016 Feb ~ 2016 July  
-Language: Bootstrap 3  
-Correcting style while migrating content between two different websites.
 
 ## Relevant Project
 
-### Instacram (COMP2041 Assignment 2)
+### BillSpliter
 
-GitHub:
-[https://github.com/tecty/COMP2041/tree/master/ass2/frontend](https://github.com/tecty/COMP2041/tree/master/ass2/frontend)  
-Using vanilla js to develop a single page application.  
-Using bootstrap 4 to ensure my page style is correct and tidy.
+GitHub: [https://github.com/tecty/BillSpliter.git](https://github.com/tecty/BillSpliter.git)  
+Website: [http://whiteboard.house](http://whiteboard.house)
+
+- An agile project has driven me to learn new technology.
+- Applied concepts of filesystem and bitcoins to make sure each penny is trackable.
+- I have applied > 30 unit tests to have quality control during each iteration.
+- A trustworthy system with simple to use interface
+
+### Robot Rescue in Maze (ENGG1000)
+
+Rank: 1/~20  
+GitHub: [https://github.com/tecty/ev3dev-maze](https://github.com/tecty/ev3dev-maze)
+
+- Develop and enhanced maze solving algorithm by our need
+- Self-developed algorithm to handle the defects of machine
+- Unit-tests to make sure every component is working properly
 
 ### Party Whip (SENG2011)
 
 GitHub:
-[https://github.com/tecty/SENG2011](https://github.com/tecty/SENG2011)  
-Use iteration to continuous deliver working software.
-Developing a RESTful API with Django rest.  
-I am using Vue and Vuetify to develop a modern web application with pretty UI.  
-I am using docker to provide a unified development environment.
+[https://github.com/tecty/SENG2011](https://github.com/tecty/SENG2011)
 
-### BillSpliter
+- Use iteration to continuous deliver working software.
+- A RESTful API web server using Django rest.
+- I am using Vue and Vuetify to develop a modern web application with pretty UI.
+- I am using docker to provide a unified development environment.
 
-GitHub: [git@github.com:tecty/BillSpliter.git](git@github.com:tecty/BillSpliter.git)  
-Self-driven project. Design and develop a robust backend with MVC. I have applied ~30 tests to have quality control during each iteration.
+## Relevant Course
 
-### Assignment 1 and 2 of the Operating System Course (COMP3231)
+### System Modelling and Design (COMP2111)
 
-<!-- TODO: -->
+Mark: 86
 
-GitHub:
-[https://github.com/tecty/cs3231](https://github.com/tecty/cs3231)  
-The understanding the lock mechanism, system calls. Programming with large scale code base in C.
+- How to convey a formal specification
+- How to use semantics to derive a valid implementation
+- Translate semantics to code
+- Contracts between objects and their methods
+
+### Data Structures and Algorithms (COMP2521)
+
+Mark: 80
+
+- Understanding the structure and algorithms
+- Understanding the time efficiency and space efficiency
+- Ability to develop the code by the concept of the algorithm
+
+### Operating System (COMP3231)
+
+Mark: 76
+
+- How system call work and how will it affect performance
+- Fundamental system mechanism such as system calls, filesystem
+- Understand the role of Operating System in the computer, what's the catch and miss in different designs
+- Understand and programme in a large code base
