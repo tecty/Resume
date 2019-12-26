@@ -8,56 +8,56 @@ GitHub: [https://github.com/tecty](https://github.com/tecty)
 
 ## Career Profile
 
-Second-year Software Engineering (Honor) student with a distinction average and has:
+Third-year Software Engineering (Honor) student with a distinction average and has:
 
-- Implemented functionality in a large code base in COMP3231 and the internship
-  in Guangzhou.
-- Demonstrated leadership and project management skill on both SENG course.
+- Implemented functionality in a large code base in COMP3231.
+- Have strong motivation to learn new concepts and implement it by COMP9243.
+- Demonstrated leadership and project management skill on both SENG courses.
 - Developed system management skills gained from the real-world situation.
 
-## Education
+## Related Courses
 
-### UNSW (University of New South Wales)
+### Database System (COMP3311)
+Mark: 90/100 HD  
+Build complex SQL query with time limit on PostgreSQL.  
+Learnt concepts about Transaction, Views, Database Functions to abstract the logic on database operations.  
+Build simple application with PHP and database.
 
-2017 Feb ~ Now  
-Major: Software Engineering  
-WAN: 81/100
+### Software Construction (COMP2041)
+Mark: 88/100 HD  
+Build complex Bash and perl scipts.   
+Implement major git functionality by perl.  
+Implement a simple sigle-page-web-app using valina javascipt. 
 
-### UIC (United International College)
+### Advanced Verification (COMP4161)
+Mark: 95/100 HD  
+An advanced Data61 courses which teach formal method using Isabelle/HOL.  
+Learnt concepts of formal methods and verify some c programmes.
 
-2015 Sep ~ 2016 Jun  
-Major: Computer Science and Technology  
-GPA: 2.7/4  
-Approximate 8 group-works per semester, constant group leader.  
-
-## Working Experience
-
-### Guangzhou Small Ant Internet Technology Ltd
-
-2018 July  
-Framework: Spring Boot, Freemarker, Bootstrap 3, MyBatis plus  
-Containerized a developing app.  
-Backend development for Spring boot + MyBatis Plus.
-
-### Website Migration of UIC
-
-2016 Feb ~ 2016 July  
-Language: Boostrap 3  
-Correcting style while migrating content between two different websites.
 
 ## Relevent Project
 
-### Whiteboard
+### Bill Spliter
 
 GitHub: [https://github.com/tecty/Whiteboard](https://github.com/tecty/Whiteboard)  
-Framework: Django, Matrializecss, Jinja  
-Unit tested all the critical functionality to calculate 10^3 transactions correctly.  
-Implement an idea of bitcoin to prevent the balance from corruption and hack.  
-Using materializecss to implement the frontend to a great UI.
+Framework: Django Rest Framework, Vue, Vuetify, PostgreSQL  
+Unit tested all the critical functionality.  
+Transaction base implementation which provide provability.  
+Using Vuetify to boost development and provide an elegant UI.
+
+
+### Project Neon (SENG2011)
+GitHub:
+[https://github.com/tecty/SENG2021](https://github.com/tecty/SENG2021)  
+Framework: Django, Django Restframework, Vue, Vuetify  
+Backend development of a RESTful API to enable back to enable backend and front-end separation.  
+Using scrapy to crawl 3 websites and 2 peer's APIs to build our databases. We parse it with nltk and uniform the data format.  
+Cut our frontend response time in half with better alogrithm and move the load to backend.  
+Coordinate with 5 team members as project manager to develop this website.
+
 
 ### Assignment 1 and 2 of Operating System Course (COMP3231)
 
-<!-- TODO: -->
 GitHub:
 [https://github.com/tecty/cs3231](https://github.com/tecty/cs3231)  
 Implement a multi-theaded programme and a file system in a real Operating System
@@ -65,29 +65,10 @@ Implement a multi-theaded programme and a file system in a real Operating System
 Plenty of comments and follow a strict code style to be readily understood by
 others.  
 
-### SiRound (SENG2021)
-<!-- TODO: More precise?  -->
-GitHub:
-[https://github.com/tecty/SENG2021](https://github.com/tecty/SENG2021)  
-Framework: Django, Django Restframework  
-Backend development of a RESTful API to enable back to enable backend and front-end separation.  
-Designed the sampling programme by using Axure RP to have consistent appearance throughout the development process.  
-Coordinate with 5 team members as project manager to develop this website.
 
-### ev3dev-maze (ENGG1000)
+### Distributed Shared Memory and Router Network (COMP9243)
 
-GitHub:
-[https://github.com/tecty/ev3dev-maze](https://github.com/tecty/ev3dev-maze)  
-Rank: 1/20+  
-Developed a semi-self-made maze solve algorithm to plan the route with minimal overhead.  
-Create a movement correcting algorithm to correct the defects of the hardware.  
-Using unit test to test all out the developed library to eliminate the errors.  
-
-## Self Intreset Poject
-
-### Home Network Service
-
-2*100M dual wan connection to prevent single point failure.
-Virtualized all the providing service to max out the value of host machine.
-Use docker to deploy some extra functionality can provide via the network such
-as Samba, Plex, Bt Dowloads to free me from configuring.
+Full marks in both project.  
+Github: Repository owner doesn't make DSM public and [Router Network](https://github.com/tecty/COMP9243-Ass2.git)  
+Implement the multiple reader signle writer mechanism and client library with auto tests.  
+Implement the simple erlang network with 2 phase commit mechanism. I write 4 tests to test againt my implementation.
